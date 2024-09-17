@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\Tarea Go\\problema7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88ACF50C-93C9-4D8A-861F-92516836D009}|problema7\\problema7.csproj|c:\\users\\user\\documents\\tarea go\\problema7\\problema7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ACF50C-93C9-4D8A-861F-92516836D009}|problema7\\problema7.csproj|solutionrelative:problema7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88ACF50C-93C9-4D8A-861F-92516836D009}|problema7\\problema7.csproj|c:\\users\\user\\documents\\tarea go\\problema7\\problema7\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88ACF50C-93C9-4D8A-861F-92516836D009}|problema7\\problema7.csproj|solutionrelative:problema7\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Tarea Go\\problema7\\problema7\\Empleado.cs",
+              "RelativeDocumentMoniker": "problema7\\Empleado.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Tarea Go\\problema7\\problema7\\Empleado.cs",
+              "RelativeToolTip": "problema7\\Empleado.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:28:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\Tarea Go\\problema7\\problema7\\Program.cs",
+              "RelativeDocumentMoniker": "problema7\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\Tarea Go\\problema7\\problema7\\Program.cs",
+              "RelativeToolTip": "problema7\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T03:28:46.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

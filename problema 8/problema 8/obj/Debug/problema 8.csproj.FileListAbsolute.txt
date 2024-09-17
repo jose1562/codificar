@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Tarea Go\problema 8\problema 8\bin\Debug\problema 8.exe.config
+C:\Users\user\Documents\Tarea Go\problema 8\problema 8\bin\Debug\problema 8.exe
+C:\Users\user\Documents\Tarea Go\problema 8\problema 8\bin\Debug\problema 8.pdb
+C:\Users\user\Documents\Tarea Go\problema 8\problema 8\obj\Debug\problema 8.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Tarea Go\problema 8\problema 8\obj\Debug\problema 8.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Tarea Go\problema 8\problema 8\obj\Debug\problema 8.exe
+C:\Users\user\Documents\Tarea Go\problema 8\problema 8\obj\Debug\problema 8.pdb

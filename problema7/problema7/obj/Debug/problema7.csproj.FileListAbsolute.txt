@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Tarea Go\problema7\problema7\bin\Debug\problema7.exe.config
+C:\Users\user\Documents\Tarea Go\problema7\problema7\bin\Debug\problema7.exe
+C:\Users\user\Documents\Tarea Go\problema7\problema7\bin\Debug\problema7.pdb
+C:\Users\user\Documents\Tarea Go\problema7\problema7\obj\Debug\problema7.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Tarea Go\problema7\problema7\obj\Debug\problema7.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Tarea Go\problema7\problema7\obj\Debug\problema7.exe
+C:\Users\user\Documents\Tarea Go\problema7\problema7\obj\Debug\problema7.pdb
