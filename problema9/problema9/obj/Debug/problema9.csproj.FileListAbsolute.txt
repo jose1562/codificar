@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Tarea Go\problema9\problema9\bin\Debug\problema9.exe.config
+C:\Users\user\Documents\Tarea Go\problema9\problema9\bin\Debug\problema9.exe
+C:\Users\user\Documents\Tarea Go\problema9\problema9\bin\Debug\problema9.pdb
+C:\Users\user\Documents\Tarea Go\problema9\problema9\obj\Debug\problema9.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Tarea Go\problema9\problema9\obj\Debug\problema9.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Tarea Go\problema9\problema9\obj\Debug\problema9.exe
+C:\Users\user\Documents\Tarea Go\problema9\problema9\obj\Debug\problema9.pdb

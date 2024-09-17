@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Tarea Go\problema1_celular\problema1_celular\bin\Debug\problema1_celular.exe.config
+C:\Users\user\Documents\Tarea Go\problema1_celular\problema1_celular\bin\Debug\problema1_celular.exe
+C:\Users\user\Documents\Tarea Go\problema1_celular\problema1_celular\bin\Debug\problema1_celular.pdb
+C:\Users\user\Documents\Tarea Go\problema1_celular\problema1_celular\obj\Debug\problema1_celular.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Tarea Go\problema1_celular\problema1_celular\obj\Debug\problema1_celular.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Tarea Go\problema1_celular\problema1_celular\obj\Debug\problema1_celular.exe
+C:\Users\user\Documents\Tarea Go\problema1_celular\problema1_celular\obj\Debug\problema1_celular.pdb
